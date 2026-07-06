@@ -55,11 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/jahanzaib0013-a11y">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-contribution-grid-snake.svg" />
-      <img alt="Jahanzaib's contribution snake" src="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-contribution-grid-snake.svg" />
-    </picture>
+    <img alt="Jahanzaib's contribution snake — real activity, updated daily" src="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-snake.svg" />
   </a>
 </p>
 
