@@ -69,10 +69,11 @@
 
 | Project | What it is | Live |
 | :------ | :--------- | :--: |
-| **[Jahanzaib-Portfolio](https://github.com/jahanzaib0013-a11y/Jahanzaib-Portfolio)** | My developer portfolio — React, Three.js, Framer Motion, with recorded demos | [🔗](https://jahanzaib0013-a11y.github.io/Jahanzaib-Portfolio/) |
-| **[dev-blog](https://github.com/jahanzaib0013-a11y/dev-blog)** | Engineering blog — AI, LLMs, payments & full-stack notes | [🔗](https://github.com/jahanzaib0013-a11y/dev-blog) |
-| **[Liquid-DMS](https://github.com/jahanzaib0013-a11y/Liquid-DMS)** | AI-powered dealership management system | — |
-| **[faraway-admin-panel](https://github.com/jahanzaib0013-a11y/faraway-admin-panel)** | Yacht-charter admin dashboard — Next.js & TypeScript | — |
+| **[Portfolio](https://github.com/jahanzaib0013-a11y/Jahanzaib-Portfolio)** | My developer portfolio — React, Three.js & Framer Motion, with recorded project demos | [🔗](https://jahanzaib0013-a11y.github.io/Jahanzaib-Portfolio/) |
+| **[Electric Love](https://goelectriclove.com)** | Fleet-management SaaS running a 40-vehicle Tesla fleet | [🔗](https://goelectriclove.com) |
+| **[Little Luxuries](https://github.com/jahanzaib0013-a11y/LittleLuxuries)** | Boutique e-commerce storefront — Next.js & TypeScript | [🔗](https://little-luxuries.vercel.app) |
+| **[Decorum Vending](https://refunds.decorumvending.co.uk)** | Payment pipeline (Nayax → AWS SQS → Lambda → Supabase) with penny-exact reconciliation | [🔗](https://refunds.decorumvending.co.uk) |
+| **[AuraCover](https://aura-cover-prod.vercel.app)** | AI SaaS generating custom cover art — 1,200+ generations/month | [🔗](https://aura-cover-prod.vercel.app) |
 
 ---
 
