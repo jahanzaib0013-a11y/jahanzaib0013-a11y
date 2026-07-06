@@ -67,13 +67,23 @@
 
 ### 📌 Featured Projects
 
-| Project | What it is | Live |
-| :------ | :--------- | :--: |
-| **[Portfolio](https://github.com/jahanzaib0013-a11y/Jahanzaib-Portfolio)** | My developer portfolio — React, Three.js & Framer Motion, with recorded project demos | [🔗](https://jahanzaib0013-a11y.github.io/Jahanzaib-Portfolio/) |
-| **[Electric Love](https://goelectriclove.com)** | Fleet-management SaaS running a 40-vehicle Tesla fleet | [🔗](https://goelectriclove.com) |
-| **[Little Luxuries](https://github.com/jahanzaib0013-a11y/LittleLuxuries)** | Boutique e-commerce storefront — Next.js & TypeScript | [🔗](https://little-luxuries.vercel.app) |
-| **[Decorum Vending](https://refunds.decorumvending.co.uk)** | Payment pipeline (Nayax → AWS SQS → Lambda → Supabase) with penny-exact reconciliation | [🔗](https://refunds.decorumvending.co.uk) |
-| **[AuraCover](https://aura-cover-prod.vercel.app)** | AI SaaS generating custom cover art — 1,200+ generations/month | [🔗](https://aura-cover-prod.vercel.app) |
+| Project | What it is | Live | ⭐ Rate |
+| :------ | :--------- | :--: | :----: |
+| **[Portfolio](https://github.com/jahanzaib0013-a11y/Jahanzaib-Portfolio)** <br/> <a href="https://github.com/jahanzaib0013-a11y/Jahanzaib-Portfolio/stargazers"><img src="https://img.shields.io/github/stars/jahanzaib0013-a11y/Jahanzaib-Portfolio?style=social" alt="stars"/></a> | My developer portfolio — React, Three.js & Framer Motion, with recorded project demos | [🔗](https://jahanzaib0013-a11y.github.io/Jahanzaib-Portfolio/) | [⭐ Rate](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/issues/new?title=Feedback%3A+Portfolio&body=%2A%2AProject%3A%2A%2A+Portfolio%0A%2A%2AMy+rating%3A%2A%2A+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%28edit+%E2%80%94+1+to+5+stars%29%0A%0A%2A%2AWhat+I+liked%3A%2A%2A%0A%0A%2A%2AWhat+could+be+better%3A%2A%2A%0A) |
+| **[Electric Love](https://goelectriclove.com)** | Fleet-management SaaS running a 40-vehicle Tesla fleet | [🔗](https://goelectriclove.com) | [⭐ Rate](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/issues/new?title=Feedback%3A+Electric+Love&body=%2A%2AProject%3A%2A%2A+Electric+Love%0A%2A%2AMy+rating%3A%2A%2A+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%28edit+%E2%80%94+1+to+5+stars%29%0A%0A%2A%2AWhat+I+liked%3A%2A%2A%0A%0A%2A%2AWhat+could+be+better%3A%2A%2A%0A) |
+| **[Little Luxuries](https://github.com/jahanzaib0013-a11y/LittleLuxuries)** <br/> <a href="https://github.com/jahanzaib0013-a11y/LittleLuxuries/stargazers"><img src="https://img.shields.io/github/stars/jahanzaib0013-a11y/LittleLuxuries?style=social" alt="stars"/></a> | Boutique e-commerce storefront — Next.js & TypeScript | [🔗](https://little-luxuries.vercel.app) | [⭐ Rate](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/issues/new?title=Feedback%3A+Little+Luxuries&body=%2A%2AProject%3A%2A%2A+Little+Luxuries%0A%2A%2AMy+rating%3A%2A%2A+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%28edit+%E2%80%94+1+to+5+stars%29%0A%0A%2A%2AWhat+I+liked%3A%2A%2A%0A%0A%2A%2AWhat+could+be+better%3A%2A%2A%0A) |
+| **[Decorum Vending](https://refunds.decorumvending.co.uk)** | Payment pipeline (Nayax → AWS SQS → Lambda → Supabase) with penny-exact reconciliation | [🔗](https://refunds.decorumvending.co.uk) | [⭐ Rate](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/issues/new?title=Feedback%3A+Decorum+Vending&body=%2A%2AProject%3A%2A%2A+Decorum+Vending%0A%2A%2AMy+rating%3A%2A%2A+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%28edit+%E2%80%94+1+to+5+stars%29%0A%0A%2A%2AWhat+I+liked%3A%2A%2A%0A%0A%2A%2AWhat+could+be+better%3A%2A%2A%0A) |
+| **[AuraCover](https://aura-cover-prod.vercel.app)** | AI SaaS generating custom cover art — 1,200+ generations/month | [🔗](https://aura-cover-prod.vercel.app) | [⭐ Rate](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/issues/new?title=Feedback%3A+AuraCover&body=%2A%2AProject%3A%2A%2A+AuraCover%0A%2A%2AMy+rating%3A%2A%2A+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%28edit+%E2%80%94+1+to+5+stars%29%0A%0A%2A%2AWhat+I+liked%3A%2A%2A%0A%0A%2A%2AWhat+could+be+better%3A%2A%2A%0A) |
+
+> ⭐ **Rate** opens a pre-filled feedback form (GitHub issue) — takes 30 seconds, and I read every one.
+
+---
+
+### 💬 Feedback Welcome
+
+- 🗣️ &nbsp;**[Start a discussion](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/discussions)** — questions, ideas, or just say hi
+- 🐛 &nbsp;**[Open an issue](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/issues/new?title=Feedback&body=**What%20I%20think:**%0A%0A**Suggestion:**%0A)** — feedback on my profile, projects, or portfolio
+- ⭐ &nbsp;Enjoyed a project? **Star its repo** — it genuinely helps
 
 ---
 
