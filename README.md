@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/jahanzaib0013-a11y">
-    <img alt="Jahanzaib's contribution snake — real activity, updated daily" src="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-snake.svg" />
+    <img alt="Jahanzaib's contribution snake — real activity, updated daily" src="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/snake.svg" />
   </a>
 </p>
 
