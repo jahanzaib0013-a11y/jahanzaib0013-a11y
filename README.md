@@ -17,6 +17,7 @@
 - 💼 &nbsp;Currently **Back End Developer** at **Qubitars Technologies**
 - ⚡ &nbsp;Shipped an AI SaaS serving **1,200+ generations/month**, a **penny-exact** payment pipeline on AWS, and a **40-vehicle** Tesla fleet platform
 - 🤖 &nbsp;Deep into **LLM integrations** — RAG, AI agents & prompt engineering (OpenAI · Anthropic · Ollama)
+- 🌱 &nbsp;Currently exploring **agentic AI workflows** and **vector search** for smarter retrieval
 - 🌍 &nbsp;Based in Gujranwala, Pakistan — open to onsite in **Lahore** or **Islamabad**, or fully remote
 - 📫 &nbsp;Reach me at **jahanzaib0013@gmail.com**
 
