@@ -6,6 +6,7 @@
   <a href="https://jahanzaib0013-a11y.github.io/Jahanzaib-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-915EFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/jahanzaib-iftikhar-227298223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jahanzaib0013@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://cal.com/jahan-zaib-hbyjx4"><img src="https://img.shields.io/badge/Book_a_Call-00A2FF?style=for-the-badge&logo=caldotcom&logoColor=white" alt="Book a Call" /></a>
   <img src="https://komarev.com/ghpvc/?username=jahanzaib0013-a11y&style=for-the-badge&color=915EFF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -84,6 +85,7 @@
 - 🗣️ &nbsp;**[Start a discussion](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/discussions)** — questions, ideas, or just say hi
 - 🐛 &nbsp;**[Open an issue](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/issues/new?title=Feedback&body=**What%20I%20think:**%0A%0A**Suggestion:**%0A)** — feedback on my profile, projects, or portfolio
 - ⭐ &nbsp;Enjoyed a project? **Star its repo** — it genuinely helps
+- 📅 &nbsp;**[Book a call](https://cal.com/jahan-zaib-hbyjx4)** — grab a 15 or 30-min slot on my calendar
 
 ---
 
