@@ -85,7 +85,7 @@
 - 🗣️ &nbsp;**[Start a discussion](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/discussions)** — questions, ideas, or just say hi
 - 🐛 &nbsp;**[Open an issue](https://github.com/jahanzaib0013-a11y/jahanzaib0013-a11y/issues/new?title=Feedback&body=**What%20I%20think:**%0A%0A**Suggestion:**%0A)** — feedback on my profile, projects, or portfolio
 - ⭐ &nbsp;Enjoyed a project? **Star its repo** — it genuinely helps
-- 📅 &nbsp;**[Book a call](https://cal.com/jahan-zaib-hbyjx4)** — grab a 15 or 30-min slot on my calendar
+- 📅 &nbsp;**[Book a call](https://cal.com/jahan-zaib-hbyjx4)** — grab a 30-min slot on my calendar
 
 ---
 
