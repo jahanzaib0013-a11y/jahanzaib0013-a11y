@@ -75,4 +75,6 @@
 
 ---
 
+<p align="center">⭐ &nbsp;If any of these projects help you, a star means a lot!</p>
+
 <p align="center"><i>“Clean data models, reliable APIs, and software that holds up under real users.”</i></p>
