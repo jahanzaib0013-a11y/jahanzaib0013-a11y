@@ -54,12 +54,16 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jahanzaib0013-a11y&hide_border=true&background=0D1117&stroke=915EFF&ring=00CEA8&fire=00CEA8&currStreakLabel=915EFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=00CEA8&sideNums=915EFF&dayLabels=8B949E" alt="GitHub streak stats" />
+  <a href="https://github.com/jahanzaib0013-a11y">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-contribution-grid-snake.svg" />
+      <img alt="Jahanzaib's contribution snake" src="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
+<p align="center">🏅 &nbsp;<b>Achievements</b> — Pull Shark · YOLO · Quickdraw &nbsp;(see the sidebar of my <a href="https://github.com/jahanzaib0013-a11y">profile</a>)</p>
 
 ---
 
