@@ -17,7 +17,7 @@
 - 💼 &nbsp;Currently **Back End Developer** at **Qubitars Technologies**
 - ⚡ &nbsp;Shipped an AI SaaS serving **1,200+ generations/month**, a **penny-exact** payment pipeline on AWS, and a **40-vehicle** Tesla fleet platform
 - 🤖 &nbsp;Deep into **LLM integrations** — RAG, AI agents & prompt engineering (OpenAI · Anthropic · Ollama)
-- 🌍 &nbsp;Based in Gujranwala, Pakistan — open to onsite in Lahore or remote
+- 🌍 &nbsp;Based in Gujranwala, Pakistan — open to onsite in **Lahore** or **Islamabad**, or fully remote
 - 📫 &nbsp;Reach me at **jahanzaib0013@gmail.com**
 
 ---
@@ -51,23 +51,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jahanzaib0013-a11y&show_icons=true&count_private=true&hide_border=true&title_color=915EFF&icon_color=00CEA8&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib0013-a11y&layout=compact&hide_border=true&langs_count=8&title_color=915EFF&text_color=C9D1D9&bg_color=0D1117" alt="top langs" />
+  <img src="https://streak-stats.demolab.com/?user=jahanzaib0013-a11y&hide_border=true&background=0D1117&stroke=915EFF&ring=00CEA8&fire=00CEA8&currStreakLabel=915EFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=00CEA8&sideNums=915EFF&dayLabels=8B949E" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib0013-a11y&hide_border=true&background=0D1117&stroke=915EFF&ring=00CEA8&fire=00CEA8&currStreakLabel=915EFF&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jahanzaib0013-a11y&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
 ---
@@ -82,9 +73,5 @@
 | **[faraway-admin-panel](https://github.com/jahanzaib0013-a11y/faraway-admin-panel)** | Yacht-charter admin dashboard — Next.js & TypeScript | — |
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jahanzaib0013-a11y/jahanzaib0013-a11y/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
 
 <p align="center"><i>“Clean data models, reliable APIs, and software that holds up under real users.”</i></p>
